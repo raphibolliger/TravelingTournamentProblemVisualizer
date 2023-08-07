@@ -1,0 +1,37 @@
+div.controls {
+    padding: 2rem;
+}
+
+div.table {
+    display: grid;
+    column-gap: 2px;
+    row-gap: 2px;
+    align-items: stretch;
+    
+    div.game,
+    div.game-summary {
+        text-align: center;
+        background-color: whitesmoke;
+        padding: 1rem 0;
+    }
+
+    div.game-summary {
+        font-weight: bold;
+        color: darkorange;
+        background-color: white;
+    }
+
+    div.game-info {
+        text-align: center;
+        padding: 1rem 0;
+    }
+}
+
+div.stats-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 2px;
+    row-gap: 2px;
+    align-items: stretch;
+    padding: 2rem;
+}

@@ -1,0 +1,7 @@
+<mat-dialog-content>
+    <textarea cols="100" rows="50" [formControl]="control"></textarea>
+</mat-dialog-content>
+<mat-dialog-actions>
+    <button mat-button mat-dialog-close>Cancel</button>
+    <button mat-button [mat-dialog-close]="control.value" [disabled]="control.invalid" cdkFocusInitial>Importieren</button>
+</mat-dialog-actions>
