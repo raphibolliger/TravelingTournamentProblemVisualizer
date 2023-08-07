@@ -1,7 +1,10 @@
 <mat-dialog-content>
-    <textarea cols="100" rows="50" [formControl]="control"></textarea>
+    <mat-form-field appearance="fill">
+        <mat-label>JSON formatierter Input</mat-label>
+        <textarea matInput rows="20" [formControl]="control"></textarea>
+      </mat-form-field>
 </mat-dialog-content>
-<mat-dialog-actions>
-    <button mat-button mat-dialog-close>Cancel</button>
-    <button mat-button [mat-dialog-close]="control.value" [disabled]="control.invalid" cdkFocusInitial>Importieren</button>
+<mat-dialog-actions align="end">
+    <button mat-flat-button mat-dialog-close>Abbrechen</button>
+    <button mat-raised-button color="primary" [mat-dialog-close]="control.value" [disabled]="control.invalid" cdkFocusInitial>Importieren</button>
 </mat-dialog-actions>

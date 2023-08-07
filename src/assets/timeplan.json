@@ -1,0 +1,442 @@
+[
+    {
+        "time": "09:30 bis 09:50",
+        "games": [
+            {},
+            {
+                "home": 9,
+                "guest": 10
+            },
+            {},
+            {
+                "home": 14,
+                "guest": 16
+            },
+            {
+                "home": 5,
+                "guest": 13
+            },
+            {
+                "home": 6,
+                "guest": 7
+            },
+            {
+                "home": 3,
+                "guest": 11
+            },
+            {
+                "home": 8,
+                "guest": 15
+            },
+            {
+                "home": 1,
+                "guest": 2
+            },
+            {},
+            {
+                "home": 4,
+                "guest": 12
+            }
+        ]
+    },
+    {
+        "time": "09:55 bis 10:15",
+        "games": [
+            {
+                "home": 5,
+                "guest": 14
+            },
+            {
+                "home": 4,
+                "guest": 15
+            },
+            {
+                "home": 1,
+                "guest": 13
+            },
+            {},
+            {
+                "home": 3,
+                "guest": 16
+            },
+            {
+                "home": 8,
+                "guest": 11
+            },
+            {
+                "home": 6,
+                "guest": 12
+            },
+            {
+                "home": 7,
+                "guest": 10
+            },
+            {},
+            {},
+            {
+                "home": 2,
+                "guest": 9
+            }
+        ]
+    },
+    {
+        "time": "10:20 bis 10:40",
+        "games": [
+            {
+                "home": 8,
+                "guest": 12
+            },
+            {
+                "home": 1,
+                "guest": 16
+            },
+            {
+                "home": 6,
+                "guest": 15
+            },
+            {
+                "home": 4,
+                "guest": 13
+            },
+            {},
+            {},
+            {},
+            {
+                "home": 3,
+                "guest": 9
+            },
+            {
+                "home": 5,
+                "guest": 14
+            },
+            {
+                "home": 2,
+                "guest": 11
+            },
+            {
+                "home": 7,
+                "guest": 10
+            }
+        ]
+    },
+    {
+        "time": "10:45 bis 11:05",
+        "games": [
+            {},
+            {},
+            {
+                "home": 3,
+                "guest": 10
+            },
+            {
+                "home": 6,
+                "guest": 12
+            },
+            {
+                "home": 7,
+                "guest": 8
+            },
+            {
+                "home": 9,
+                "guest": 16
+            },
+            {
+                "home": 1,
+                "guest": 13
+            },
+            {
+                "home": 2,
+                "guest": 11
+            },
+            {
+                "home": 4,
+                "guest": 15
+            },
+            {
+                "home": 5,
+                "guest": 14
+            },
+            {}
+        ]
+    },
+    {
+        "time": "11:10 bis 11:30",
+        "games": [
+            {
+                "home": 2,
+                "guest": 9
+            },
+            {},
+            {},
+            {
+                "home": 8,
+                "guest": 11
+            },
+            {
+                "home": 1,
+                "guest": 14
+            },
+            {},
+            {
+                "home": 7,
+                "guest": 16
+            },
+            {
+                "home": 5,
+                "guest": 13
+            },
+            {
+                "home": 6,
+                "guest": 10
+            },
+            {
+                "home": 4,
+                "guest": 12
+            },
+            {
+                "home": 3,
+                "guest": 15
+            }
+        ]
+    },
+    {
+        "time": "11:35 bis 11:55",
+        "games": [
+            {},
+            {
+                "home": 7,
+                "guest": 11
+            },
+            {},
+            {},
+            {
+                "home": 2,
+                "guest": 15
+            },
+            {
+                "home": 4,
+                "guest": 13
+            },
+            {
+                "home": 5,
+                "guest": 10
+            },
+            {
+                "home": 6,
+                "guest": 12
+            },
+            {
+                "home": 3,
+                "guest": 9
+            },
+            {
+                "home": 8,
+                "guest": 16
+            },
+            {
+                "home": 1,
+                "guest": 14
+            }
+        ]
+    },
+    {
+        "time": "13:20 bis 13:40",
+        "games": [
+            {
+                "home": 3,
+                "guest": 16
+            },
+            {
+                "home": 2,
+                "guest": 13
+            },
+            {
+                "home": 5,
+                "guest": 7
+            },
+            {},
+            {
+                "home": 9,
+                "guest": 12
+            },
+            {
+                "home": 1,
+                "guest": 10
+            },
+            {},
+            {
+                "home": 4,
+                "guest": 14
+            },
+            {
+                "home": 8,
+                "guest": 11
+            },
+            {
+                "home": 6,
+                "guest": 15
+            },
+            {}
+        ]
+    },
+    {
+        "time": "13:45 bis 14:05",
+        "games": [
+            {
+                "home": 6,
+                "guest": 13
+            },
+            {},
+            {
+                "home": 8,
+                "guest": 14
+            },
+            {
+                "home": 2,
+                "guest": 9
+            },
+            {},
+            {},
+            {
+                "home": 4,
+                "guest": 15
+            },
+            {
+                "home": 1,
+                "guest": 16
+            },
+            {
+                "home": 7,
+                "guest": 12
+            },
+            {
+                "home": 3,
+                "guest": 10
+            },
+            {
+                "home": 5,
+                "guest": 11
+            }
+        ]
+    },
+    {
+        "time": "14:10 bis 14:30",
+        "games": [
+            {
+                "home": 4,
+                "guest": 10
+            },
+            {
+                "home": 5,
+                "guest": 6
+            },
+            {
+                "home": 11,
+                "guest": 12
+            },
+            {
+                "home": 7,
+                "guest": 15
+            },
+            {},
+            {
+                "home": 3,
+                "guest": 14
+            },
+            {
+                "home": 2,
+                "guest": 8
+            },
+            {},
+            {
+                "home": 13,
+                "guest": 16
+            },
+            {
+                "home": 1,
+                "guest": 9
+            },
+            {}
+        ]
+    },
+    {
+        "time": "14:35 bis 14:55",
+        "games": [
+            {
+                "home": 1,
+                "guest": 15
+            },
+            {
+                "home": 3,
+                "guest": 14
+            },
+            {
+                "home": 4,
+                "guest": 9
+            },
+            {
+                "home": 5,
+                "guest": 10
+            },
+            {
+                "home": 6,
+                "guest": 11
+            },
+            {
+                "home": 2,
+                "guest": 12
+            },
+            {},
+            {},
+            {},
+            {
+                "home": 7,
+                "guest": 13
+            },
+            {
+                "home": 8,
+                "guest": 16
+            }
+        ]
+    },
+    {
+        "time": "15:00 bis 15:20",
+        "games": [
+            {
+                "home": 7,
+                "guest": 11
+            },
+            {
+                "home": 8,
+                "guest": 12
+            },
+            {
+                "home": 2,
+                "guest": 16
+            },
+            {
+                "home": 1,
+                "guest": 3
+            },
+            {
+                "home": 4,
+                "guest": 10
+            },
+            {
+                "home": 5,
+                "guest": 15
+            },
+            {
+                "home": 9,
+                "guest": 14
+            },
+            {},
+            {},
+            {},
+            {
+                "home": 6,
+                "guest": 13
+            }
+        ]
+    }
+]

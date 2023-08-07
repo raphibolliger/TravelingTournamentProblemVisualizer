@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 import { MatDialog } from '@angular/material/dialog';
 import { InputModalComponent } from './components/input-modal/input-modal.component';
-import { filter, map, tap } from 'rxjs';
+import { config, filter, map, tap } from 'rxjs';
 
 @Component({
   selector: 'app-root',
@@ -96,7 +96,9 @@ export class AppComponent {
   }
 
   openInput(): void {
-    this.dialog.open(InputModalComponent).afterClosed().pipe(
+    this.dialog.open(InputModalComponent, {
+      width: '50%',
+    }).afterClosed().pipe(
       tap(result => console.log(result)),
       filter(result => !!result)
     ).subscribe(result => {
