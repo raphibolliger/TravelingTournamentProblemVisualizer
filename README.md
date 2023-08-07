@@ -1,27 +1,13 @@
-# Teamplanner
+# TravelingTournamentProblemVisualizer
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0.
+The inital goal was to schedule a fixed amount of teams (16) on a timetable with 11 locations and 11 timeslots. Each team plays against another team at a timeslot (3 slots will be empty). The best case would be each team plays one time against an other team and always on a different location.
 
-## Development server
+## The visualizer validates all constraints
+- 16 Teams on each timeslot, each team can play only once a given time
+- Each Team should play only once at each location
+- Each Team should play as less as possible against an other team. This is maybe not solvable but with the visualizer it will be clear which can be optimized.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Filled files
+In the assets folder there is one filled file (as shown on the screenshot) its mostly optimized and has no errors. But some teams play three times against each other. That could maybe optimized.
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<img width="1458" alt="image" src="https://github.com/raphibolliger/TravelingTournamentProblemVisualizer/assets/6289764/1f5bb9b3-b3de-4c2d-8672-55a1dd4a97c2">
